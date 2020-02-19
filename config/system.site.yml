@@ -1,0 +1,14 @@
+uuid: 37d2cff9-8521-4871-968f-2ad3fc084757
+name: drupalgatsbygraphql
+mail: shane@gatsbyjs.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
