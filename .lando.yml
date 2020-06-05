@@ -1,0 +1,8 @@
+name: drupalgatsbygraphql
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupalgatsbygraphql
+  id: d5777510-11bc-49fb-81ba-3dd36985b0d4
+  webroot: web
+  xdebug: true

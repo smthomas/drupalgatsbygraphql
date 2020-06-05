@@ -1,0 +1,19 @@
+server_url: 'http://75b6d697.ngrok.io'
+incrementalbuild_url: ''
+preview_entity_types:
+  node: node
+  block_content: 0
+  comment: 0
+  contact_message: 0
+  file: 0
+  path_alias: 0
+  shortcut: 0
+  taxonomy_term: 0
+  user: 0
+  menu_link_content: 0
+preview:
+  article: 1
+iframe:
+  article: 1
+target:
+  article: sidebar

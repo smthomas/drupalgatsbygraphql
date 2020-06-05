@@ -20,6 +20,7 @@
         "drupal/core-recommended": "^8.8",
         "drupal/devel": "^2.1",
         "drupal/graphql": "^3.0",
+        "drupal/pathauto": "^1.6",
         "drush-ops/behat-drush-endpoint": "^9.3",
         "drush/drush": "~8.3",
         "pantheon-systems/drupal-integrations": "^8",
